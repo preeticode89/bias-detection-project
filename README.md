@@ -8,6 +8,6 @@ Features:
 - Fairness analysis
 
 Tools used:
-- Python
-- Google Colab
-- Scikit-learn
+pandas
+scikit-learn
+fairlearn
